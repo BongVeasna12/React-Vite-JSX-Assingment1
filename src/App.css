@@ -29,3 +29,8 @@
     padding:20px;
     
 }
+.Message{
+        backface-visibility: visible;
+        margin: 30px;
+        
+}
