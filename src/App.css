@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.nabar{
+    padding: 20px;
+}
+.Rating{
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    font-size: 40px;
+    border-radius: 2px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.star{
+    display: inline;
+    justify-content: center;
+}
+.RatingStar{
+    justify-content: center;
+}
+.TableData{
+    justify-self: center;
+    padding:20px;
+    
+}
